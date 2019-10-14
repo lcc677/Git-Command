@@ -1,2 +1,2 @@
 hello hub
-hello git
+hello word
