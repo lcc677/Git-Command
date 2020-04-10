@@ -1,4 +1,2 @@
 submit 3
 other
-
-reset
